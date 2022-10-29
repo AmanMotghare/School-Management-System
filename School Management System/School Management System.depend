@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1666949076 source:d:\c++\c++ project\school management system\main.cpp
+	<iostream>
+	<unistd.h>
+
