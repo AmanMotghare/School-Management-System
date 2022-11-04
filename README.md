@@ -315,5 +315,4 @@ This project implements a School Management System. The System focuses mostly on
   ----------------------------------------------------
 
   Shutting Down . . .
-
    
